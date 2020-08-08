@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/banner.png" alt="Jake Brehm's Banner"/>
-  <!-- <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/logo.png" width="100" alt="Personal Portfolio Logo"/> -->
+    <br>
+    <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/banner.png" alt="Jake Brehm's Banner"/>
+    <!-- <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/logo.png" width="100" alt="Personal Portfolio Logo"/> -->
 </p>
 
 <!-- <h1 align="center">Hey, I'm Jake 👋🏻</h1> -->
