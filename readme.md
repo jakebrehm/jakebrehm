@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Jake 👋🏻</h1>
 
 <p align="center">
-    I'm Jake, an engineer currently based in the Buffalo, NY area. I'm equipped with a bachelor's degree in mechanical engineering from Clarkson University, with a strong focus on math and physics. 
+    I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area. I'm equipped with a bachelor's degree in mechanical engineering from Clarkson University, with a strong focus on math and physics. 
 </p>
 
 <p align="center">
@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-    Check out my full portfolio <a href="https://jakebrehm.com/">here</a>.
+    Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!
 </p>
