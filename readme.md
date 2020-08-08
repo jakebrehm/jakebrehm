@@ -8,11 +8,7 @@
 ---
 
 <p align="center">
-    I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area. I'm equipped with a bachelor's degree in mechanical engineering from Clarkson University, with a strong focus on math and physics. 
-</p>
-
-<p align="center">
-    Since graduating, my varied education and experiences have afforded me the opportunity to work in both the electrical and software engineering fields. My interests, as well as the bulk of my experience, currently lie in the latter.
+    I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area. Although I've worked in software since graduating, I'm equipped with a bachelor's degree in mechanical engineering from Clarkson University, with a strong focus on math and physics. 
 </p>
 
 <p align="center">
