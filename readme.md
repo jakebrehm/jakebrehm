@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/logo.png" width="100" alt="Personal Portfolio Logo"/>
+  <img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/banner.png" width="100" alt="Personal Portfolio Logo"/>
 </p>
 
-<h1 align="center">Hey, I'm Jake 👋🏻</h1>
+<!-- <h1 align="center">Hey, I'm Jake 👋🏻</h1> -->
+
+---
 
 <p align="center">
     I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area. I'm equipped with a bachelor's degree in mechanical engineering from Clarkson University, with a strong focus on math and physics. 
