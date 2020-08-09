@@ -14,7 +14,7 @@
 
 <!-- <p align="center">Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!</p> -->
 
-<div align="center">
+<div align="center" valign="middle">
 
 <a href="https://www.linkedin.com/in/jacobbrehm/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/linkedin.svg" alt="Jake Brehm's LinkedIn"/></a>
 <a href="mailto:mail@jakebrehm.com"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/mail.svg" alt="Email Jake Brehm"/></a>
