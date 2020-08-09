@@ -12,6 +12,8 @@
 
 <p align="center">I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area.<br><br>Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!</p>
 
-<img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/linkedin.svg" alt="Jake Brehm's LinkedIn"/>
+<a href="https://www.linkedin.com/in/jacobbrehm/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/linkedin.svg" alt="Jake Brehm's LinkedIn"/></a>
+<a href="mailto:mail@jakebrehm.com"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/mail.svg" alt="Email Jake Brehm"/></a>
+<a href="https://jakebrehm.com/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/portfolio.svg" alt="Jake Brehm's Portfolio"/></a>
 
 [LinkedIn]: https://www.linkedin.com/in/jacobbrehm/
