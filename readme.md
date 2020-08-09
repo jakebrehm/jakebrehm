@@ -13,5 +13,11 @@
 </p>
 
 <p align="center">
-    Check out my full portfolio <a href="https://jakebrehm.com/" style="color: darkorange">here</a>. I'd love to hear from you!
+    Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!
+</p>
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jakebrehm&count_private=true&hide_title=true&show_icons=true&title_color=EA7E02&bg_color=EFEFEF&icon_color=EA7E02" alt="Jake Brehm's Github stats"/>
 </p>
