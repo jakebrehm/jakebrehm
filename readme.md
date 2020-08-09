@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jacobbrehm/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/linkedin.svg" alt="Jake Brehm's LinkedIn"/></a>
+<a href="https://jakebrehm.com/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/portfolio.svg" target="_blank" alt="Jake Brehm's Portfolio"/></a>
+<a href="https://www.linkedin.com/in/jacobbrehm/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/linkedin.svg" target="_blank" alt="Jake Brehm's LinkedIn"/></a>
 <a href="mailto:mail@jakebrehm.com"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/mail.svg" alt="Email Jake Brehm"/></a>
-<a href="https://jakebrehm.com/"><img src="https://github.com/jakebrehm/jakebrehm/blob/master/img/portfolio.svg" alt="Jake Brehm's Portfolio"/></a>
 
 </div>
 
