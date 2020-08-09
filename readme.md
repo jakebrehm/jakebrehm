@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-    Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!
+    Check out my full portfolio <a href="https://jakebrehm.com/" style="color: darkorange">here</a>. I'd love to hear from you!
 </p>
