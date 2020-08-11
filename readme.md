@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center">I'm an engineer currently working in industrial automation using LabVIEW in the Buffalo, NY area.</p>
+<p align="center">I'm an engineer currently working in industrial automation and integration using LabVIEW in the Buffalo, NY area.</p>
 
 <!-- <p align="center">Check out my full portfolio <a href="https://jakebrehm.com/">here</a>. I'd love to hear from you!</p> -->
 
