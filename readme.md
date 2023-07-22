@@ -2,7 +2,7 @@
 
 <!-- <br> -->
 
-<p align="center">I'm an engineer turned data science master's student currently studying at the University of Rochester.</p>
+<p align="center">An engineer turned data science master's graduate of the University of Rochester.<br><br>I'm currently working as a data engineer at Horizon Health Services, a not-for-profit corporation headquartered in Getzville, NY.</p>
 
 <!-- <br> -->
 
