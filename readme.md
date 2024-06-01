@@ -17,8 +17,8 @@ I'm a data engineer in the healthcare industry with 6 years of software developm
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jacobbrehm/"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/linkedin.png" alt="Jake Brehm's LinkedIn"/></a>
-<a href="mailto:mail@jakebrehm.com"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/mail.png" alt="Email Jake Brehm"/></a>
-<a href="https://jakebrehm.com/"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/portfolio.png" alt="Jake Brehm's Portfolio"/></a>
+<a href="https://www.linkedin.com/in/jakebrehm/"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:mail@jakebrehm.com"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/mail.png" alt="Mail"/></a>
+<a href="https://jakebrehm.com/"><img src="https://raw.githubusercontent.com/jakebrehm/jakebrehm/master/img/portfolio.png" alt="Portfolio"/></a>
 
 </div>
