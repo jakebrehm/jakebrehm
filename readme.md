@@ -6,12 +6,11 @@
 
 <hr />
 
-I'm a data engineer in the healthcare industry with 6 years of software development experience 👨🏻‍💻. I have a master's in data science, but I started my career automating   physical testing in the aerospace industry. I love making lives easier and working on interactive projects.
+I'm a data engineer in the healthcare industry with 6 years of software engineering experience 👨🏻‍💻. I have a master's in data science, but I started my career automating physical testing in the aerospace industry. I love making lives easier, and I prioritize working on personal projects that teach me something new.
 
-- ⚒️ My daily drivers are Python, SQL, and JavaScript.
-- 📘 Learning full stack and expanding cloud knowledge.
-- 🏥 Currently working at Horizon Health Services.
-- 🤺 Most of my activity is at [@jbrehmhhs](https://github.com/jbrehmhhs).
+- 🚙 My daily drivers are Python and SQL, but I dabble in JavaScript and Swift.
+- 📘 Expanding cloud knowledge while entertaining my app development curiosity.
+- 🏥 Currently working at [Horizon Health Services](https://horizon-health.org/) (see [@jbrehmhhs](https://github.com/jbrehmhhs)).
 
 <hr />
 
